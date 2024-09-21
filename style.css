@@ -33,7 +33,7 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg, #FF6B6B, #FFE66D); /* Use your preferred color gradient */
+    background: crimson; /* Use your preferred color gradient */
     color: #fff;
     line-height: 1;
     margin-right: 8px;
