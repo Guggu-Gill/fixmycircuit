@@ -31,7 +31,7 @@ $(document).ready(function(){
     });
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["PEL® -automation & control⚡️","PEL® -automation & control⚡️","PEL® -automation & control⚡️"],
+        strings: ["Automation & Control","Automation & Control","Automation & Control"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
