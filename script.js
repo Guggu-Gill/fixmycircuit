@@ -31,13 +31,13 @@ $(document).ready(function(){
     });
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Electrical Engineer","IOT Engineer" ,"Circuit Designer"],
+        strings: ["PEL® -automation & control⚡️","PEL® -automation & control⚡️","PEL® -automation & control⚡️"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["Electrical Engineer", "IOT Engineer","Circuit Designer"],
+        strings: ["PEL®","PEL®","PEL®"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
